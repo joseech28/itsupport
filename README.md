@@ -85,7 +85,14 @@
 		<section class="section">
 			<h2>osTicket (Help Desk Ticketing System)</h2>
 			<p>osTicket is a versatile help desk ticketing system that offers a range of features to streamline and improve customer support. It provides a user-friendly interface for creating and managing tickets, automating common tasks, and tracking customer issues from start to resolution.</p>
-
+<p></p>
+<p>
+•	osTicket: Prerequisites and Installation
+•	osTicket: Post-Installation Configuration
+•	osTicket: Ticket Lifecycle Examples
+</p>
+			
+			
 		</section>
 	
  		<section class="section">
