@@ -78,7 +78,7 @@
 		</div>
 		<nav>
 			<a href="https://joseech28.github.io/itsupport/#osticket-help-desk-ticketing-system">osTicket HDTS</a>
-			<a href="">Microsoft Azure</a>
+			<a href="https://joseech28.github.io/itsupport/#microsoft-azure">Microsoft Azure</a>
 		</nav>
 	</header>
 	<main>
@@ -90,9 +90,6 @@
 	
  		<section class="section">
 			<h2>Microsoft Azure</h2>
-	<!--  ************************************************** -->
+			<p>Microsoft Azure offers a range of benefits for IT support, including scalability, flexibility, and cost-effectiveness. With Azure, IT support teams can easily spin up new virtual machines and resources as needed, allowing them to quickly respond to changing demands. Azure also offers built-in automation and monitoring tools that can help IT support teams identify and resolve issues before they become major problems. Additionally, Azure's pay-as-you-go pricing model and cost optimization features can help IT support teams reduce costs while still maintaining high levels of service. Overall, Microsoft Azure provides IT support teams with the tools and capabilities they need to deliver effective and efficient support services.</p>
 			
-
-		</section>
-	<section class="section">
-			<h2>Section 3</h2>
+	<!--  ************************************************** -->
