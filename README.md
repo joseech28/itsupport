@@ -77,10 +77,8 @@
 
 		</div>
 		<nav>
-			<a href="">Skills</a>
-			<a href="">Portfolio</a>
-			<a href="https://example.com">Button 3</a>
-			<a href="https://example.com">Button 4</a>
+			<a href="https://joseech28.github.io/itsupport/#osticket-help-desk-ticketing-system">osTicket HDTS</a>
+			<a href="">Microsoft Azure</a>
 		</nav>
 	</header>
 	<main>
@@ -91,7 +89,7 @@
 		</section>
 	
  		<section class="section">
-			<h2>Skills</h2>
+			<h2>Microsoft Azure</h2>
 	<!--  ************************************************** -->
 			
 
