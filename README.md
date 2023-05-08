@@ -77,16 +77,16 @@
 
 		</div>
 		<nav>
-			<a href="https://wascarleonel.github.io/temp3/#skills">Skills</a>
-			<a href="https://wascarleonel.github.io/temp3/#section-2">Portfolio</a>
+			<a href="">Skills</a>
+			<a href="">Portfolio</a>
 			<a href="https://example.com">Button 3</a>
 			<a href="https://example.com">Button 4</a>
 		</nav>
 	</header>
 	<main>
 		<section class="section">
-			<h2>A Little About Me</h2>
-			<p>I've honed my craft as a wordsmith and take pride in transforming complex ideas into engaging and accessible content in both digital (Audio, Video, E-books, etc.) and traditional or physical.</p>
+			<h2>osTicket (Help Desk Ticketing System)</h2>
+			<p>osTicket is a versatile help desk ticketing system that offers a range of features to streamline and improve customer support. It provides a user-friendly interface for creating and managing tickets, automating common tasks, and tracking customer issues from start to resolution.</p>
 
 		</section>
 	
