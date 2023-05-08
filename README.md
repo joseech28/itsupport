@@ -88,7 +88,9 @@
 <p></p>
 <p>
 •	osTicket: Prerequisites and Installation
+<p></p>
 •	osTicket: Post-Installation Configuration
+<p></p>
 •	osTicket: Ticket Lifecycle Examples
 </p>
 			
